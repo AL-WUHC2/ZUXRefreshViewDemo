@@ -26,3 +26,19 @@ Demo工程示范了ZUXRefreshView的两个简单应用: 下拉刷新, 上拉加�
     使用GCD延迟模拟异步加载效果
 
 ---
+
+#####效果截图
+
+![下拉刷新正常状态](https://raw.githubusercontent.com/AL-WUHC2/ZUXRefreshViewDemo/master/ScreenCapture/Refresh-Normal.jpg)
+
+![下拉刷新下拉状态](https://raw.githubusercontent.com/AL-WUHC2/ZUXRefreshViewDemo/master/ScreenCapture/Refresh-Pulling.jpg)
+
+![下拉刷新加载中状态](https://raw.githubusercontent.com/AL-WUHC2/ZUXRefreshViewDemo/master/ScreenCapture/Refresh-Loading.jpg)
+
+![上拉加载更多正常状态](https://raw.githubusercontent.com/AL-WUHC2/ZUXRefreshViewDemo/master/ScreenCapture/Loadmore-Normal.jpg)
+
+![上拉加载更多下拉状态](https://raw.githubusercontent.com/AL-WUHC2/ZUXRefreshViewDemo/master/ScreenCapture/Loadmore-Pulling.jpg)
+
+![上拉加载更多加载中状态](https://raw.githubusercontent.com/AL-WUHC2/ZUXRefreshViewDemo/master/ScreenCapture/Loadmore-Loading.jpg)
+
+---
